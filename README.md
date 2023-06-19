@@ -11,6 +11,9 @@ The company’s cybersecurity team then investigated the security event. They fo
 
 The assignment was tasked with using this security event to create a plan to improve the company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). I used the CSF to help navigate through the different steps of analyzing this cybersecurity incident and integrate my analysis into a general security strategy:
 
+
+
+
 * Identity:
   * Identify security risks through regular audits of internal networks, systems, devices, and access privileges to identify potential gaps in security. 
 
@@ -24,7 +27,9 @@ The assignment was tasked with using this security event to create a plan to imp
   * To contain, neutralize, and analyze security incidents; implement improvements to the security process. 
 
 * Recover:
-  * Affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
+  * Affected systems to normal operation and restore systems data and/or assets that have been affected by an incident.
+
+![framework-01](https://github.com/tanyaleepr/incident-response-analysis-NISTCSF/assets/92898110/f7690c8d-66e7-4f7d-912d-06eab078f6a4)
 
 
 
